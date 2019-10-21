@@ -1,15 +1,17 @@
-### Date created
-Include the date you created this project and README file.
+#Python Script to Explore BikeShare Data
 
-### Project Title
-Replace the Project Title
+This is a Python script used to explore data related to bike share systems for Chicago, New York City and Washington.
+It imports data from csv files and computes descriptive statistics. It also takes in raw user input to create an interactive experience in the terminal to present statistics.
 
-### Description
-Describe what your project is about and what it does
+## Requirements
+Python 3, NumPy and Pandas
 
-### Files used
-Include the files used
+## Datasets
+The datasests are randomly selected for the first 6 months of 2017 for all 3 cities(Chicago, New York City and Washington).
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+##Statistics Computed
+#Popular times of travel
+#Popular stations and trip
+#Trip duration
+#User info
 
